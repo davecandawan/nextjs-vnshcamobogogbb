@@ -41,7 +41,7 @@ const PackageSelection: React.FC = () => {
             </div>
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbbgg/starter-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbb/starter-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"
@@ -129,7 +129,7 @@ const PackageSelection: React.FC = () => {
 
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbbgg/advanced-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbb/advanced-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"
@@ -195,7 +195,7 @@ const PackageSelection: React.FC = () => {
             </div>
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbbgg/enhanced-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnshcamobogogbb/enhanced-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"
